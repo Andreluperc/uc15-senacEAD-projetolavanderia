@@ -2,23 +2,24 @@
 Projeto voltado para criação de sistema de uma lavanderia.
 Projeto criado e desenvolvido para realização de atividades relacionadas ao aprendizado de criação de sistema e versionamento de Software do curso de Técnico de Desenvolvimento de Sistemas do Senac EAD.
 
-Objetivo do Software 📌
+## Objetivo do Software 📌
 Registrar operações realizadas numa lavanderia.
 
 Funcionalidade do Sistema 📋
-Criar cadastros operadores e clientes
+- Criar cadastros operadores e clientes
 
-Cadastrar pedido
+- Cadastrar pedido
 
-Pesquisar pedidos
+- Pesquisar pedidos
 
-Listar pedidos
+- Listar pedidos
 
-Finalizar pedidos
+- Finalizar pedidos
 
-Status do projeto ⌛
+## Status do projeto ⌛
 Em desenvolvimento.
-Tecnologias utilizadas 💻
+
+##Tecnologias utilizadas 💻
 Java
 
 MySQL
